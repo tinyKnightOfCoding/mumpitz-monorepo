@@ -1,0 +1,15 @@
+{
+  "name": "mumpitz",
+  "private": true,
+  "version": "0.1.0",
+  "author": {
+    "name": "Kenneth Radunz"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "11.1.2",
+      "onFail": "download"
+    }
+  }
+}
