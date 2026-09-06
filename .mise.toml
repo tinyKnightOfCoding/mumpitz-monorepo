@@ -1,7 +1,4 @@
-[tools]
-node = "26"
-
 [settings]
 # Read the pnpm version from package.json
-idiomatic_version_file_enable_tools = ['pnpm']
+idiomatic_version_file_enable_tools = ['pnpm', 'node']
 lockfile = true
