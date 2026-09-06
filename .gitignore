@@ -1,0 +1,8 @@
+# Intellij
+.idea
+
+# MacOS
+.DS_Store
+
+# PNPM
+node_modules
