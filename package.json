@@ -18,6 +18,7 @@
     }
   },
   "devDependencies": {
-    "lefthook": "catalog:"
+    "lefthook": "catalog:",
+    "oxfmt": "catalog:"
   }
 }
