@@ -1,2 +1,6 @@
+allowBuilds:
+  lefthook: true
+catalog:
+  lefthook: 2.1.12
 catalogMode: strict
 saveExact: true

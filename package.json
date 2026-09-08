@@ -17,5 +17,7 @@
       "onFail": "download"
     }
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "lefthook": "catalog:"
+  }
 }
