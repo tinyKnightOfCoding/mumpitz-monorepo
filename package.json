@@ -1,9 +1,16 @@
 {
   "name": "mumpitz",
-  "private": true,
   "version": "0.1.0",
+  "private": true,
   "author": {
     "name": "Kenneth Radunz"
+  },
+  "scripts": {
+    "format": "oxfmt"
+  },
+  "devDependencies": {
+    "lefthook": "catalog:",
+    "oxfmt": "catalog:"
   },
   "devEngines": {
     "packageManager": {
@@ -16,9 +23,5 @@
       "version": "26.2.0",
       "onFail": "download"
     }
-  },
-  "devDependencies": {
-    "lefthook": "catalog:",
-    "oxfmt": "catalog:"
   }
 }
