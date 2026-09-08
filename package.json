@@ -6,7 +6,8 @@
     "name": "Kenneth Radunz"
   },
   "scripts": {
-    "format": "oxfmt"
+    "format": "oxfmt",
+    "format:check": "oxfmt --check"
   },
   "devDependencies": {
     "lefthook": "catalog:",
